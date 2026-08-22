@@ -39,6 +39,6 @@ Dayflow simplifies everyday HR tasks by bringing everything into one place. It h
 
 #### Future Enhancements
 - Email & automated notification alerts
-- Analytics & reports dashboard for generating salary slips and attendance metrics[span_0](start_span)[span_0](end_span)
-- Integrated Excalidraw design architecture mapping[span_1](start_span)[span_1](end_span)
+- Analytics & reports dashboard for generating salary slips and attendance metrics
+- Integrated Excalidraw design architecture mapping
 -
