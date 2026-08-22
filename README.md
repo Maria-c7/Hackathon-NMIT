@@ -1,3 +1,5 @@
+<div align="center">
+
 # Hackathon-NMIT -2026
 
 <div align="center">
